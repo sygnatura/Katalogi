@@ -1,0 +1,57 @@
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Release\Katalogi.exe
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Release\Katalogi.pdb
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.csprojResolveAssemblyReference.cache
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.Properties.Resources.resources
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.csproj.GenerateResource.Cache
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.pdb
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Release\Katalogi.exe.config
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Release\Katalogi.exe.manifest
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Release\Katalogi.application
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.TrustInfo.xml
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe.manifest
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Release\Katalogi.application
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe.config
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.application
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.Properties.Resources.resources
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.csproj.GenerateResource.Cache
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.TrustInfo.xml
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.application
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.pdb
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.pdb
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.csprojResolveAssemblyReference.cache
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe.config
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.pdb
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe.manifest
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.application
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.pdb
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.csprojResolveAssemblyReference.cache
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.Properties.Resources.resources
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.csproj.GenerateResource.Cache
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.TrustInfo.xml
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe.manifest
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.application
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Release\Katalogi.Form1.resources
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.exe.config
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.application
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.exe
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.pdb
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.csprojAssemblyReference.cache
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.Form1.resources
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.Properties.Resources.resources
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.csproj.GenerateResource.cache
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.csproj.CoreCompileInputs.cache
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.TrustInfo.xml
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.application
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.exe
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Release\Katalogi.pdb

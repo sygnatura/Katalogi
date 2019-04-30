@@ -1,0 +1,31 @@
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.Properties.Resources.resources
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.csproj.GenerateResource.Cache
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Debug\Katalogi.exe
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Debug\Katalogi.pdb
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.exe
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.pdb
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.csprojResolveAssemblyReference.cache
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Debug\Katalogi.exe.config
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Debug\Katalogi.exe.manifest
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\bin\Debug\Katalogi.application
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.TrustInfo.xml
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.exe.manifest
+D:\Programy\Programowanie\Microsoft Visual Studio 10.0\Projekty\Katalogi\Katalogi\obj\x86\Debug\Katalogi.application
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Debug\Katalogi.exe.config
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Debug\Katalogi.exe
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\x86\Debug\Katalogi.pdb
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Debug\Katalogi.exe.config
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Debug\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Debug\Katalogi.application
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Debug\Katalogi.exe
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Debug\Katalogi.pdb
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.Form1.resources
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.Properties.Resources.resources
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.csproj.GenerateResource.cache
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.csproj.CoreCompileInputs.cache
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.TrustInfo.xml
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.application
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.exe
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\x86\Debug\Katalogi.pdb

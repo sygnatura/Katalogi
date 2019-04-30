@@ -1,0 +1,25 @@
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe.config
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.application
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\bin\Release\Katalogi.exe
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\Katalogi.csprojResolveAssemblyReference.cache
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\Katalogi.Properties.Resources.resources
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\Katalogi.csproj.GenerateResource.Cache
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\Katalogi.TrustInfo.xml
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\Katalogi.application
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\Katalogi\Katalogi\obj\Release\Katalogi.exe
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.exe.config
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.application
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\bin\Release\Katalogi.exe
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.Form1.resources
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.Properties.Resources.resources
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.csproj.GenerateResource.cache
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.csproj.CoreCompileInputs.cache
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.TrustInfo.xml
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.exe.manifest
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.application
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.exe
+C:\Users\sjaskiewicz\source\repos\Katalogi\Katalogi\obj\Release\Katalogi.csprojAssemblyReference.cache
